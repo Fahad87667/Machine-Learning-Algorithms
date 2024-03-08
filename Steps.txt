@@ -1,0 +1,9 @@
+SKLEARN
+1. Divide the dataset into dependent and independent dataset
+2. Divide the dataset into train and test to prevent Data leakage
+3. Feature Scaling -- Standardization(z_test)
+4. Model Training
+5. Model Fit
+6. coefficients and intercept
+7. Prediction
+7. MSE, MAE , RMSE
